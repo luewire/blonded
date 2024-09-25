@@ -5,7 +5,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('/image/background.png') no-repeat center center fixed;
+    background: url('/blonded/image/background.png') no-repeat center center fixed;
     background-size: cover;
     background-blend-mode: darken;
 }
